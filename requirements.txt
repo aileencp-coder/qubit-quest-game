@@ -1,0 +1,4 @@
+streamlit>=1.35
+qiskit>=1.2
+qiskit-aer>=0.15
+matplotlib>=3.8
